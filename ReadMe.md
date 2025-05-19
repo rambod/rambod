@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Rambod Ghashghai
 
 🎮 **Unreal Engine Developer** | 💻 IT Lead | 🛠️ Game & Tools Programmer
