@@ -13,7 +13,6 @@ I'm a solo developer focused on **Unreal Engine game development**, systems prog
 
 - Design & develop games and systems with Unreal Engine (C++ + Blueprints)
 - Share tutorials and devlogs on [YouTube @RambodDev](https://www.youtube.com/@RambodDev?sub_confirmation=1)
-- Write technical articles and code guides on [rambod.net](https://rambod.net)
 - Collaborate on backend, multiplayer, and cross-platform tools (Go, Rust, Python)
 - Open-source contributions & technical mentorship
 
@@ -23,19 +22,6 @@ I'm a solo developer focused on **Unreal Engine game development**, systems prog
 Check out my latest Unreal Engine & game dev content:  
 [**Subscribe to Rambod Dev on YouTube**](https://www.youtube.com/@RambodDev?sub_confirmation=1)
 
----
-
-## 🌐 **Website**
-All my projects, devlogs, and articles:  
-[**Visit rambod.net**](https://rambod.net)
-
----
-
-## 💬 **Let's Connect**
-
-- Twitter/X: [@rambod01](https://twitter.com/rambod01)
-- Stack Overflow: [My Profile](https://stackoverflow.com/users/1714144/rambod)
-- Email: [gh.rambod@gmail.com](mailto:gh.rambod@gmail.com)
 
 
 ## 📢 **Open to Collaborate On**
