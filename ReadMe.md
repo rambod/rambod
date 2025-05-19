@@ -6,7 +6,6 @@ I'm a solo developer focused on **Unreal Engine game development**, systems prog
 
 - **Languages:** C++, Python, Go, Rust, Flutter/Dart
 - **Specialties:** Gameplay systems, performance optimization, VR/AR, multiplayer backends, UI/UX, dev tooling
-- **Currently Building:** [OB-42 Veilpoint](https://rambod.net/veilpoint/) (sci-fi survival), [Commerce Kings](https://rambod.net/commercekings/) (business sim), and dev tools in C++ and Go.
 
 ---
 
