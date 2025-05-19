@@ -1,5 +1,57 @@
 # 💫 About Me:
-🔧 I’m currently working on: Silent Shores, an open-world survival game, and RuninfinityQuest, an endless runner with multiplayer features.<br><br>🤝 I’m looking to collaborate on: Unreal Engine projects, VR/AR applications, and backend development in Go or Rust.<br><br>👐 I’m looking for help with: Multiplayer backend for RuninfinityQuest, especially real-time sync and server stability.<br><br>🌱 I’m currently learning: Game networking, VR workflows, and performance optimization for large VR projects.<br><br>💬 Ask me about: Unreal Engine development.<br><br>⚡ Fun fact: I believe in a future ruled by AR/XR with smart glasses and 6G, and I create games reflecting real-life challenges.
+# 👋 Hi, I'm Rambod Ghashghai
+
+🎮 **Unreal Engine Developer** | 💻 IT Lead | 🛠️ Game & Tools Programmer
+
+I'm a solo developer focused on **Unreal Engine game development**, systems programming, and open-source projects. I build tools, prototypes, and complete games, with a passion for sci-fi, VR, and technical problem solving.
+
+- **Languages:** C++, Python, Go, Rust, Flutter/Dart
+- **Specialties:** Gameplay systems, performance optimization, VR/AR, multiplayer backends, UI/UX, dev tooling
+- **Currently Building:** [OB-42 Veilpoint](https://rambod.net/veilpoint/) (sci-fi survival), [Commerce Kings](https://rambod.net/commercekings/) (business sim), and dev tools in C++ and Go.
+
+---
+
+## 🚀 What I Do
+
+- Design & develop games and systems with Unreal Engine (C++ + Blueprints)
+- Share tutorials and devlogs on [YouTube @RambodDev](https://www.youtube.com/@RambodDev?sub_confirmation=1)
+- Write technical articles and code guides on [rambod.net](https://rambod.net)
+- Collaborate on backend, multiplayer, and cross-platform tools (Go, Rust, Python)
+- Open-source contributions & technical mentorship
+
+---
+
+## 🎥 **YouTube**
+Check out my latest Unreal Engine & game dev content:  
+[**Subscribe to Rambod Dev on YouTube**](https://www.youtube.com/@RambodDev?sub_confirmation=1)
+
+---
+
+## 🌐 **Website**
+All my projects, devlogs, and articles:  
+[**Visit rambod.net**](https://rambod.net)
+
+---
+
+## 💬 **Let's Connect**
+
+- Twitter/X: [@rambod01](https://twitter.com/rambod01)
+- Stack Overflow: [My Profile](https://stackoverflow.com/users/1714144/rambod)
+- Email: [gh.rambod@gmail.com](mailto:gh.rambod@gmail.com)
+
+
+## 📢 **Open to Collaborate On**
+
+- Unreal Engine projects (C++ or Blueprints)
+- Multiplayer backends (Go, Rust, Python)
+- VR/AR apps and interactive tools
+- Open-source Unreal plugins and utilities
+
+---
+
+**Always exploring, always building. If you’re into Unreal, C++, or want to chat about game dev, hit me up!**
+
+
 
 
 ## 🌐 Socials:
