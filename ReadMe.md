@@ -4,7 +4,7 @@
 
 I'm a solo developer focused on **Unreal Engine game development**, systems programming, and open-source projects. I build tools, prototypes, and complete games, with a passion for sci-fi, VR, and technical problem solving.
 
-- **Languages:** C++, Python, Go, Rust, Flutter/Dart
+- **Languages:** C++, Python, Rust, Flutter/Dart
 - **Specialties:** Gameplay systems, performance optimization, VR/AR, multiplayer backends, UI/UX, dev tooling
 
 ---
